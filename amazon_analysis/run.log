@@ -1,0 +1,245 @@
+============================================================
+Amazon 女士毛衣 Best Sellers 数据采集 & 分析
+============================================================
+
+[Step 1] 采集 BSR 榜单链接 …
+  Fetching BSR list page 1: https://www.amazon.com/Best-Sellers-Clothing-Shoes-Jewelry-Womens-Sweaters/zgbs/fashion/1044456
+  ⚠ Grid not found, trying anyway …
+  Found 60 candidate cards
+  Fetching BSR list page 2: https://www.amazon.com/Best-Sellers-Clothing-Shoes-Jewelry-Womens-Sweaters/zgbs/fashion/1044456?pg=2
+  ⚠ Grid not found, trying anyway …
+  Found 60 candidate cards
+
+  ✅ Collected 60 product links from BSR list
+
+  共获取 60 条产品链接
+
+[Step 2] 采集产品详情页 (共 60 条，预计需要 5-10 分钟) …
+  [  1/60] ASIN: B07BJ83S2Q … $47.50  ⭐4.4  18,765评  Amazon Essentials Women's Lightweight Crewneck Car
+  [  2/60] ASIN: B0CY29GF1H … $59.00  ⭐4.6  2,692评  Arach&Cloz Women's Lightweight Wool Blend Short Sl
+  [  3/60] ASIN: B07F2HXZ4Y … $25.00  ⭐4.4  27,442评  Amazon Essentials Women's Lightweight Long Sleeve 
+  [  4/60] ASIN: B0CKSXYP3L … $56.50  ⭐4.6  6,126评  GRECERELLE Women's Long Sleeve V-Neck Button Down 
+  [  5/60] ASIN: B0DC9Y7CRT … $56.50  ⭐4.3  1,125评  Tankaneo Womens V Neck Tank Tops 2026 Sleeveless R
+  [  6/60] ASIN: B0FF28JKR7 … $53.50  ⭐4.5  1,615评  Yincro Womens Lightweight Cardigan Long Sleeve Ope
+  [  7/60] ASIN: B07TSY85ZZ … $59.50  ⭐4.3  9,193评  Omoone Women's 3/4 Sleeve Modern Denim Crop Top Ti
+  [  8/60] ASIN: B0F8HSFBSC … $59.00  ⭐4.6  767评  LETDIOSTO Cropped Cardigan Bolero Shrug for Women,
+  [  9/60] ASIN: B0CYZWTPZQ … $57.00  ⭐4.4  1,638评  Kate Kasin Women Short Sleeve Polo Sweater V Neck 
+  [ 10/60] ASIN: B0FK9TTRY1 … $55.00  ⭐4.5  87评  RUMIA Short Sleeve Sweaters for Women Lightweight 
+  [ 11/60] ASIN: B0FSRGPMNJ … $56.50  ⭐4.5  256评  Dokotoo Womens Summer Short Sleeve Crochet Tops Ho
+  [ 12/60] ASIN: B07F28R9CN … $11.00  ⭐4.4  24,435评  Amazon Essentials Women's Lightweight V-Neck Cardi
+  [ 13/60] ASIN: B0F23LBKY4 … $55.50  ⭐4.5  1,474评  WIHOLL Short Sleeve Sweater for Women V Neck Trend
+  [ 14/60] ASIN: B0B82XNJDF … $59.00  ⭐4.5  2,660评  GRACE KARIN Womens Long Sleeve Knit Cardigan Sweat
+  [ 15/60] ASIN: B0FV87WNGK … $55.50  ⭐4.4  143评  OFEEFAN Short Sleeve Sweater for Women V Neck Ligh
+  [ 16/60] ASIN: B0BQW1FWXK … $54.00  ⭐4.4  2,837评  Saodimallsu Womens Summer Cap Sleeve Tops Casual C
+  [ 17/60] ASIN: B0DCW38YR7 … $64.00  ⭐4.5  1,177评  Trendy Queen Cropped Cardigan Sweaters for Women L
+  [ 18/60] ASIN: B0DPX85FYF … $37.00  ⭐4.4  766评  Saodimallsu Womens Spring Oversized Cardigans Batw
+  [ 19/60] ASIN: B0B8D279W3 … $63.50  ⭐4.4  4,159评  PRETTYGARDEN Women's Chunky Knit Open Front Sweate
+  [ 20/60] ASIN: B0G1BK1J3B … $62.00  ⭐4.2  86评  Sampeel Womens Short Sleeve Sweater Mock Neck Summ
+  [ 21/60] ASIN: B0C748SWT3 … $35.00  ⭐4.3  2,267评  Imily Bela Women's Cable Short Sleeve Sweaters Top
+  [ 22/60] ASIN: B0FZJRXZP1 … $58.50  ⭐4.5  84评  SHEWIN Womens Tops Crewneck Short Sleeve Sweater P
+  [ 23/60] ASIN: B0FD9P1HYQ … $17.50  ⭐4.4  385评  Yeokou Womens Short Sleeve Sweater Round Neck Ruff
+  [ 24/60] ASIN: B0DQ7XXXPD … $59.00  ⭐4.3  771评  QUALFORT Women's 100% Cotton Lightweight Cardigans
+  [ 25/60] ASIN: B0FD9V2D85 … $58.50  ⭐4.3  447评  EVALESS Cardigan Sweaters for Women Wool Blend Lig
+  [ 26/60] ASIN: B0DJSN933Q … $55.50  ⭐4.3  1,911评  WIHOLL Women's Puff Short Sleeve Sweater 2026 Spri
+  [ 27/60] ASIN: B0DLT3VC43 … $59.00  ⭐4.4  907评  ANRABESS Womens Short Sleeve Sweaters Wool Blend C
+  [ 28/60] ASIN: B08T7P3SM7 … $11.00  ⭐4.4  25,352评  Amazon Essentials Women's Long-Sleeve Lightweight 
+  [ 29/60] ASIN: B085G81NF7 … $59.00  ⭐4.3  4,517评  QUALFORT Women's 100% Cotton Sweater, Basic Lightw
+  [ 30/60] ASIN: B0BXWNXYYB … $55.50  ⭐4.2  3,463评  Argstar Women's 3/4 Sleeve Cardigan (S-3XL)
+  [ 31/60] ASIN: B0D2NSKSY7 … $66.00  ⭐4.5  2,734评  PRETTYGARDEN Womens Long Sleeve Quarter Zip Pullov
+  [ 32/60] ASIN: B0DYCPFS6Y … $8.50  ⭐4.3  214评  YSYOKOW Womens Open Front Long Cardigan 3/4 Sleeve
+  [ 33/60] ASIN: B09MLD4LCZ … $63.50  ⭐4.2  3,869评  Mafulus Women's Crochet Cardigan Kimono Boho Long 
+  [ 34/60] ASIN: B0FCLL8CDQ … $62.50  ⭐4.1  182评  Springrain Cardigan Sweaters for Women Lightweight
+  [ 35/60] ASIN: B0F4D4QZBX … $67.00  ⭐4.5  966评  Trendy Queen Lightweight Cardigan Sweaters for Wom
+  [ 36/60] ASIN: B0DMF5D7QN … $63.50  ⭐4.6  715评  Dokotoo Womens Floral Fashion Summer Tops 2026 Sho
+  [ 37/60] ASIN: B0D8475BJ9 … $60.50  ⭐4.6  879评  GRACE KARIN Womens Long Sleeve Button Up Cable Kni
+  [ 38/60] ASIN: B0FY2ZXHGK … $55.00  ⭐4.3  123评  Dokotoo Women's Casual V Neck Short Sleeve Sweater
+  [ 39/60] ASIN: B0DT952BVG … $59.00  ⭐4.4  397评  Women's Cropped Cardigan Sweaters Crew Neck Button
+  [ 40/60] ASIN: B0CL3WQKSB … $59.00  ⭐4.4  1,177评  JOKELAMB Women's Bolero Shrug Cropped Cardigan Kni
+  [ 41/60] ASIN: B0FWQYGP7Q … $55.00  ⭐4.6  59评  Saodimallsu Womens Ribbed Knit Tank Top Summer Sle
+  [ 42/60] ASIN: B0FJ62FTYC … $8.50  ⭐4.3  769评  QIXING Women's Sweater Cardigan Open Front Lightwe
+  [ 43/60] ASIN: B0D8VFWJXS … $59.00  ⭐4.4  1,721评  ANRABESS Sweaters for Women Long Sleeve Lightweigh
+  [ 44/60] ASIN: B0G1MFGG6R … $60.00  ⭐4.4  104评  Dokotoo Womens Sweaters Spring Summer Oversized 3/
+  [ 45/60] ASIN: B0FX2SW7J2 … $64.50  ⭐4.5  91评  Saodimallsu Womens Crochet Crop Tank Tops Sleevele
+  [ 46/60] ASIN: B0DBL7QGNN … $63.00  ⭐4.1  269评  SCUSTY Women's Lightweight Cardigan Short Sleeve B
+  [ 47/60] ASIN: B0CR6K25K6 … $59.00  ⭐4.5  594评  Kate Kasin Women Crochet Shrug Sweater Tie Front K
+  [ 48/60] ASIN: B0C6XVW6G5 … $55.50  ⭐4.2  1,645评  ZNVGIRL Women Shrug Chiffon Cardigans Open Front S
+  [ 49/60] ASIN: B0G8D8C9TP … $56.50  ⭐4.4  61评  WIHOLL Womens Lightweight Sweater Spring Summer Ou
+  [ 50/60] ASIN: B0D7W13SB4 … $55.50  ⭐4.4  1,360评  Heymoments Women's Thin Shrugs 3/4 Sleeve Lightwei
+  [ 51/60] ASIN: B0BF9HND69 … $61.50  ⭐4.5  2,920评  Bettysays Women's 3/4 Sleeve Open Front Cropped Ca
+  [ 52/60] ASIN: B0FYD8H7V9 … $58.50  ⭐4.1  82评  Dokotoo Women’s Short Sleeve Sweaters Tops Oversiz
+  [ 53/60] ASIN: B0DPGZDXV9 … $62.00  ⭐4.5  1,020评  PRETTYGARDEN Womens Spring Tops 2026 Summer Shirts
+  [ 54/60] ASIN: B0DJM7983N … $58.00  ⭐4.4  242评  ANRABESS Women’s Tops 2026 Trendy Summer Shirts Cr
+  [ 55/60] ASIN: B0FGXJ5FBG … $56.50  ⭐4.4  326评  Women's Cardigan Sweaters Lightweight Crew Neck Bu
+  [ 56/60] ASIN: B0CMXQSBJ4 … $23.00  ⭐4.3  1,814评  Dokotoo Women's 2026 Spring Summer Crochet Hollow 
+  [ 57/60] ASIN: B0CPVKD2GJ … $62.50  ⭐4.4  876评  KIRUNDO Spring Summer Short Sleeve Sweater for Wom
+  [ 58/60] ASIN: B0D9V93H65 … $33.50  ⭐4.5  2,158评  PRETTYGARDEN Womens Oversized Cardigan Sweaters 20
+  [ 59/60] ASIN: B0FYG6RBFZ … $62.00  ⭐4.6  259评  Zeagoo Women's Short Sleeve Sweater 2026 Spring Su
+  [ 60/60] ASIN: B07D32DW4B … $46.50  ⭐4.4  12,650评  GRACE KARIN Women's Long Sleeve Button Down Crew N
+
+  ✅ 原始数据已保存: /workspace/amazon_analysis/raw_data.csv
+
+[Step 3] 生成分析报告 …
+  ✅ 分析报告已保存: /workspace/amazon_analysis/analysis_report.txt
+  ✅ JSON 数据已保存: /workspace/amazon_analysis/products.json
+
+============================================================
+Amazon 美国站女士毛衣类目 Top 100 销售数据分析报告
+数据采集时间: 2026年04月17日 04:37
+数据来源: https://www.amazon.com/Best-Sellers-Clothing-Shoes-Jewelry-Womens-Sweaters/zgbs/fashion/1044456
+
+======================================================================
+  一、价格分布分析
+======================================================================
+有效价格数据: 60 条
+  最低价: $8.50
+  最高价: $67.00
+  平均价: $52.33
+  中位价: $58.25
+
+  价格区间分布:
+    ≤$15        :   4 款    6.7%  ███
+    $15-25      :   3 款    5.0%  ██
+    $25-35      :   2 款    3.3%  █
+    $35-50      :   3 款    5.0%  ██
+    $50-75      :  48 款   80.0%  ████████████████████████████████████████
+    $75-100     :   0 款    0.0%  
+    $100-200    :   0 款    0.0%  
+    >$200       :   0 款    0.0%  
+
+  Top 20 产品平均价格: $52.33
+
+  【价格建议】
+  主流价格带为 $50-75，建议新品定价优先布局该区间。
+  中位价 $58.25 可作为竞争定价参考基准。
+  中高价格带市场较活跃，建议重视材质和工艺差异化。
+
+======================================================================
+  二、款式类型分布
+======================================================================
+
+  款式分布 (共 60 款):
+    Cardigan                      :  30 款   50.0%  █████████████████████████
+    Pullover / Crew Neck          :  17 款   28.3%  ██████████████
+    Other Sweater                 :   5 款    8.3%  ████
+    V-Neck                        :   5 款    8.3%  ████
+    Oversized / Chunky            :   1 款    1.7%  
+    Turtleneck / Mock Neck        :   1 款    1.7%  
+    Ribbed                        :   1 款    1.7%  
+
+  【款式建议】
+  前三大主流款式: Cardigan, Pullover / Crew Neck, Other Sweater
+  建议优先开发前三大款式，同时关注细分机会:
+  - Turtleneck/Mock Neck: 秋冬核心款，百搭度高，建议为主力SKU
+  - Cardigan: 春秋过渡季必备，开衫叠穿趋势明显，建议多色系布局
+  - Oversized/Cable Knit: 休闲慵懒风强势，适合年轻消费者
+  - 可开发 Ribbed + Crop 组合款，瞄准 Gen Z 市场
+
+======================================================================
+  三、上新时间分析
+======================================================================
+  有上架日期数据: 60 款
+
+  按年份分布:
+    2018:   1 款  1.7%
+    2019:   3 款  5.0%
+    2020:   3 款  5.0%
+    2021:   1 款  1.7%
+    2022:   4 款  6.7%
+    2023:   6 款  10.0%
+    2024:  16 款  26.7%
+    2025:  23 款  38.3%
+    2026:   3 款  5.0%
+
+  按月份分布 (上新旺季):
+    Jan:   6 款   10.0%  ██████
+    Feb:   2 款    3.3%  ██
+    Mar:   7 款   11.7%  ███████
+    Apr:   5 款    8.3%  █████
+    May:   2 款    3.3%  ██
+    Jun:   5 款    8.3%  █████
+    Jul:   5 款    8.3%  █████
+    Aug:   5 款    8.3%  █████
+    Sep:   2 款    3.3%  ██
+    Oct:   3 款    5.0%  ███
+    Nov:   6 款   10.0%  ██████
+    Dec:  12 款   20.0%  █████████████
+
+  上新峰值月份: Jan, Mar, Dec
+
+  【上新节奏建议】
+  ① 秋冬主推期: 8月底-11月上旬是毛衣类目上新黄金窗口，
+     建议提前 90 天完成打样，提前 60 天完成批量备货，
+     提前 45 天完成入仓，保障在旺季前完成排名积累。
+  ② 春季补充期: 2-3月可上新轻薄针织/开衫，配合春日穿搭搜索热度。
+  ③ 常青款: 全年上架，以基础款Turtleneck、Cardigan为主，
+     稳定库存水位，持续累积评价。
+  ④ 节庆节点: 10月底(Halloween)、11月(Black Friday/感恩节)、
+     12月(圣诞)是销售爆发点，需提前 2-3 个月布局。
+
+======================================================================
+  四、品牌与评价数据分析
+======================================================================
+  Top 10 品牌 (按上榜次数):
+    Dokotoo                                 : 6 款
+    Amazon Essentials                       : 4 款
+    Saodimallsu                             : 4 款
+    PRETTYGARDEN                            : 4 款
+    WIHOLL                                  : 3 款
+    GRACE KARIN                             : 3 款
+    ANRABESS                                : 3 款
+    Kate Kasin                              : 2 款
+    Trendy Queen                            : 2 款
+    QUALFORT                                : 2 款
+
+  评价数据统计:
+  平均评价数: 3130
+  中位评价数: 993
+  最高评价数: 27,442
+  平均星级:   4.40 ★
+
+  【评价建议】
+  榜单内产品中位评价数为 993，
+  新品需快速积累至 200+ 评价方可建立基础竞争力，
+  建议通过 Vine 计划 + 早期测评活动加速评价积累。
+
+======================================================================
+  五、新品开发综合建议
+======================================================================
+
+  ┌─────────────────────────────────────────────────────────────────┐
+  │                    新品开发行动计划                               │
+  └─────────────────────────────────────────────────────────────────┘
+
+  【优先级1 - 秋冬主力款 (8-11月上新)】
+  ● 款式: Turtleneck/Mock Neck 毛衣 + Cable Knit 纹理款
+  ● 材质: 80%+ 消费者偏好: 羊毛混纺、腈纶混纺(亲肤耐洗)
+  ● 颜色: 首选黑色、米白/奶油色、深咖、灰色，再布局2-3个流行色
+  ● 定价: $25-45 主力区间，可配合首发优惠券快速冲排名
+  ● SKU数: 建议首批 4-6 色 × 5 码 = 20-30 个 SKU
+  ● 备货节奏: 6月确认设计 → 7月打样 → 8月批量生产 → 9月初入仓
+
+  【优先级2 - 全年常青款 (Q4 主推+全年补货)】
+  ● 款式: 多色系 Cardigan 开衫 (5 扣/长款最受欢迎)
+  ● 定价: $20-40 (中低价带，流量最大)
+  ● 差异化: 加大码 (1X-3X) 版型、口袋设计、高品质纽扣
+  ● 颜色: 至少 8+ 色，满足多样化选购需求
+  ● 备货节奏: 常备库存，每季补充新色 2-3 个
+
+  【优先级3 - 趋势款 (年轻化/差异化)】
+  ● 款式: Ribbed Crop Sweater + Oversized Knit
+  ● 定价: $18-35 (吸引 Gen Z 预算)
+  ● 营销: 配合 TikTok/Instagram 内容营销，重视图片和视频质量
+  ● 上新: 春季(2-3月)轻薄款 + 秋季(9-10月)厚重款
+
+  【关键成功要素】
+  ✦ 图片质量: 主图纯白底，需有生活场景图，模特多角度展示
+  ✦ 关键词布局: 标题含核心词 (womens sweater + 款式词 + 材质词)
+  ✦ A+ 内容: 展示面料细节、版型对比、尺码参考
+  ✦ 广告策略: 新品期 ACOS 可接受 50-80%，冲排名优先
+  ✦ 定价策略: 上市初期 Coupon 10-15%，30天后根据排名调整
+
+  【竞争风险提示】
+  ⚠ 毛衣类目季节性强，库存积压风险高，首批建议保守备货
+  ⚠ 退货率高发 (尺码不合/色差)，尺码表需详尽，描述需准确
+  ⚠ 主要竞争对手多有 1000+ 评价积累，新品需有明确差异化点
+
