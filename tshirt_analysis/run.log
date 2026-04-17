@@ -1,0 +1,387 @@
+============================================================
+Amazon 女士T恤 Best Sellers 数据采集 & 分析
+============================================================
+
+[Step 1] 采集 BSR 榜单链接 …
+  [BSR page 1] https://www.amazon.com/Best-Sellers-Clothing-Shoes-Jewelry-Womens-T-Shirts/zgbs/fashion/1044544/
+  → 30 products collected so far
+  [BSR page 2] https://www.amazon.com/Best-Sellers-Clothing-Shoes-Jewelry-Womens-T-Shirts/zgbs/fashion/1044544/?pg=2
+  → 60 products collected so far
+
+  ✅ Total BSR links collected: 60
+
+
+[Step 2] 采集产品详情 (共 60 条) …
+  [  1/60] ASIN: B0BVFNPSGN … $9.99  ⭐4.5  5,543评  [Crop Top]  Trendy Queen Womens Short Sleeve T Shirts - B
+  [  2/60] ASIN: B0CYC5GDYP … $7.99  ⭐4.5  4,228评  [Crop Top]  Trendy Queen Womens Stretchy Soft Opaque Basi
+  [  3/60] ASIN: B0G3WJZNZN … $6.79  ⭐4.6  721评  [Basic / Essential Tee]  Zeagoo Womens Tops Summer Casual Cap Sleeve T
+  [  4/60] ASIN: B0BPYCHYP9 … $8.49  ⭐4.5  6,825评  [Oversized / Relaxed Fit]  Trendy Queen Womens Oversized Summer T Shirts
+  [  5/60] ASIN: B0DJJMW21W … $9.99  ⭐4.5  9,807评  [V-Neck T-Shirt]  ANRABESS Womens Short Sleeve Henley Tops V Ne
+  [  6/60] ASIN: B07762TMMM … $11.30  ⭐4.4  110,858评  [V-Neck T-Shirt]  Amazon Essentials Women's Regular-Fit Short-S
+  [  7/60] ASIN: B0DQYB2HNW … $12.99  ⭐4.4  1,627评  [Oversized / Relaxed Fit]  Trendy Queen Womens Off the Shoulder Tops Ove
+  [  8/60] ASIN: B07611Y7N7 … $10.25  ⭐4.5  111,192评  [Basic / Essential Tee]  Gildan Adult Ultra Cotton T-Shirt, Style G200
+  [  9/60] ASIN: B0D31745W4 … $7.98  ⭐4.5  3,097评  [V-Neck T-Shirt]  AUTOMET Womens V Neck T Shirts Spring Summer 
+  [ 10/60] ASIN: B0DPQ9MVL5 … $7.98  ⭐4.4  3,289评  [Basic / Essential Tee]  Alaroo Womens Summer Tops Short Sleeve Shirts
+  [ 11/60] ASIN: B0DHXBBW26 … $8.99  ⭐4.6  3,280评  [Scoop Neck Tee]  ANRABESS Women Short Sleeve Tops Scoop Neck R
+  [ 12/60] ASIN: B0CXPJ575D … $13.01  ⭐4.5  1,847评  [Crop Top]  Kumufenc Women Short Sleeve Workout Shirts Op
+  [ 13/60] ASIN: B0DHS2DKYP … $8.99  ⭐4.5  4,059评  [Basic / Essential Tee]  SAMPEEL Womens Summer Tops Trendy 2025 Ruched
+  [ 14/60] ASIN: B09SNTBDKQ … $7.99  ⭐4.5  5,565评  [Basic / Essential Tee]  AUTOMET Women's Soft Basic Short Sleeve T-Shi
+  [ 15/60] ASIN: B0FN7QGW7D … $7.99  ⭐4.4  381评  [Other T-Shirt]  WIHOLL Womens Tops Short Sleeve Shirts Summer
+  [ 16/60] ASIN: B0CRV8WNS8 … $8.99  ⭐4.4  4,603评  [V-Neck T-Shirt]  AUTOMET T-Shirts Short Sleeve V Neck Tees Top
+  [ 17/60] ASIN: B0DPQBJ1DW … $9.99  ⭐4.4  5,407评  [Other T-Shirt]  Alaroo Womens Summer Tops Short Sleeve Shirts
+  [ 18/60] ASIN: B0FR89HZVT … $7.99  ⭐4.4  468评  [Other T-Shirt]  WIHOLL Womens Summer Tops Short Petal Sleeve 
+  [ 19/60] ASIN: B0CYZM5RSM … $12.99  ⭐4.6  9,612评  [Long Sleeve T-Shirt]  ANRABESS Women Long Sleeve Shirts Rib Knit Sl
+  [ 20/60] ASIN: B0DKNS1P6C … $9.99  ⭐4.4  1,734评  [V-Neck T-Shirt]  WIHOLL Womens Summer Tops Short Sleeve Basic 
+  [ 21/60] ASIN: B0FN49GXWR … $8.49  ⭐4.4  507评  [Other T-Shirt]  WIHOLL Womens Blouses Spring Tops Short Sleev
+  [ 22/60] ASIN: B0CQSQT3JT … $9.99  ⭐4.5  2,824评  [Crop Top]  Trendy Queen Double Lined Short Sleeve Tshirt
+  [ 23/60] ASIN: B0CXJHCVHZ … $9.99  ⭐4.2  1,865评  [Oversized / Relaxed Fit]  Cotton Basic T Shirts for Women,Crew Neck Sho
+  [ 24/60] ASIN: B0F599HNQS … $9.99  ⭐4.3  3,512评  [Long Sleeve T-Shirt]  PRETTYGARDEN Womens Long Sleeve Shirts 2026 S
+  [ 25/60] ASIN: B0G4GHZPK7 … $9.99  ⭐4.4  1,234评  [V-Neck T-Shirt]  Zeagoo Womens Summer Tops Rolled Short Sleeve
+  [ 26/60] ASIN: B09QFPZ4JN … $14.99  ⭐4.0  3,517评  [Oversized / Relaxed Fit]  Sovelen Women's Summer Casual Crewneck Batwin
+  [ 27/60] ASIN: B0FRMBG9DP … $9.99  ⭐4.6  437评  [Other T-Shirt]  WIHOLL Womens Summer Tops Color Block Short S
+  [ 28/60] ASIN: B0D2Y5S7LS … $7.99  ⭐4.4  4,911评  [Basic / Essential Tee]  AUTOMET Women's Cap Sleeve Tops for Summer - 
+  [ 29/60] ASIN: B0DK8HZS6P … $9.99  ⭐4.4  2,737评  [Other T-Shirt]  ANRABESS Women Tops Cap Sleeve Dressy Casual 
+  [ 30/60] ASIN: B08RMSWHQN … $7.99  ⭐4.4  11,345评  [V-Neck T-Shirt]  WIHOLL Womens Summer T-Shirts Short Sleeve V 
+  [ 31/60] ASIN: B0FR9FLQZP … $9.99  ⭐4.4  391评  [Other T-Shirt]  WIHOLL Womens Summer Tops Short Sleeve Shirts
+  [ 32/60] ASIN: B0FR4WQW5L … $8.99  ⭐4.4  354评  [Other T-Shirt]  WIHOLL Summer Tops for Women Puff Sleeve Crew
+  [ 33/60] ASIN: B0D2HTXRZF … $8.99  ⭐4.4  5,090评  [V-Neck T-Shirt]  T Shirts Short Sleeve V Neck Tees Womens Tops
+  [ 34/60] ASIN: B0GHRJJMGL … $8.99  ⭐4.4  200评  [Basic / Essential Tee]  Zeagoo Womens Tshirt Short Sleeve Summer Tops
+  [ 35/60] ASIN: B0D97VJD7D … $13.99  ⭐4.6  4,007评  [V-Neck T-Shirt]  Oversized Tshirts for Women V Neck Short Slee
+  [ 36/60] ASIN: B0FY2R33PL … $7.99  ⭐4.4  715评  [V-Neck T-Shirt]  Zeagoo Womens Summer Tops V Neck Short Sleeve
+  [ 37/60] ASIN: B0CNXCZ2MR … $8.99  ⭐4.4  3,996评  [V-Neck T-Shirt]  Aokosor Womens V Neck Short Sleeve T Shirts S
+  [ 38/60] ASIN: B0DJ78WSYB … $7.99  ⭐4.4  5,279评  [Other T-Shirt]  WIHOLL Womens Summer Tops Short Dolman Sleeve
+  [ 39/60] ASIN: B0FX9YYLJL … $7.63  ⭐4.3  251评  [V-Neck T-Shirt]  Sampeel Short Sleeve Shirts for Women V Neck 
+  [ 40/60] ASIN: B0FXKPN6XN … $7.98  ⭐4.6  368评  [V-Neck T-Shirt]  WIHOLL Womens T Shirts Loose Fit Short Sleeve
+  [ 41/60] ASIN: B0BW2Z7CC8 … $9.99  ⭐4.4  6,368评  [Crop Top]  Abardsion Women's Casual Basic Going Out Crop
+  [ 42/60] ASIN: B0FR91VPJQ … $8.98  ⭐4.5  267评  [V-Neck T-Shirt]  WIHOLL Womens Tops Dressy Casual Petal Sleeve
+  [ 43/60] ASIN: B0DJ2ZJMY1 … $8.99  ⭐4.5  1,797评  [Fitted / Slim Tee]  ANRABESS Women Short Sleeve Crewneck Ribbed K
+  [ 44/60] ASIN: B0D1VDZ6JS … $17.99  ⭐4.5  1,237评  [Crop Top]  YEOREO Women Fitted Workout Tops Short Sleeve
+  [ 45/60] ASIN: B0DKT4GLTS … $7.98  ⭐4.5  3,368评  [Oversized / Relaxed Fit]  WIHOLL Womens T Shirts Loose Fit Short Sleeve
+  [ 46/60] ASIN: B0DJT95HTV … $12.98  ⭐4.1  883评  [Tank Top / Sleeveless]  Tankaneo Womens Oversized Tshirts Summer Casu
+  [ 47/60] ASIN: B0CT3FHSTP … $8.99  ⭐4.5  2,880评  [Basic / Essential Tee]  Memorose Womens Short Sleeve Tops Summer T Sh
+  [ 48/60] ASIN: B0C42MBGYM … $9.98  ⭐4.5  1,330评  [Tank Top / Sleeveless]  Tankaneo Womens Short Sleeve Cropped T-Shirts
+  [ 49/60] ASIN: B0D4YCXF8Q … $7.99  ⭐4.5  4,638评  [Long Sleeve T-Shirt]  AUTOMET Women's Ribbed Long Sleeve Basic Top 
+  [ 50/60] ASIN: B0CXJ9B3JQ … $9.99  ⭐4.4  5,326评  [Oversized / Relaxed Fit]  AUTOMET Women's Oversized Short Sleeve T Shir
+  [ 51/60] ASIN: B095PL9XVP … $13.98  ⭐4.3  5,654评  [Tank Top / Sleeveless]  Tankaneo Women Half Sleeve Cropped T-Shirts D
+  [ 52/60] ASIN: B0CTH3VGWJ … $14.99  ⭐4.5  1,060评  [Crop Top]  XIEERDUO Cotton Tshirts for Women Drop Should
+  [ 53/60] ASIN: B0DSC6NHZP … $6.98  ⭐4.4  751评  [Crop Top]  GAYHAY Shirts for Women - Slim Fit Short Slee
+  [ 54/60] ASIN: B09NM4M3N9 … $10.43  ⭐4.3  7,620评  [Oversized / Relaxed Fit]  PRETTYGARDEN Women's Short Sleeve Casual T Sh
+  [ 55/60] ASIN: B0DP23SNG6 … $9.99  ⭐4.4  9,385评  [Other T-Shirt]  OFEEFAN Womens T Shirts Short Sleeve Tops Dre
+  [ 56/60] ASIN: B0BBL187VL … $14.99  ⭐4.4  2,296评  [Crop Top]  Women's Oversize Workout Crop Tops Casual Sho
+  [ 57/60] ASIN: B0DHQLDX43 … $14.98  ⭐4.2  1,232评  [Oversized / Relaxed Fit]  Dokotoo Womens Summer Tops 2026 Striped Color
+  [ 58/60] ASIN: B0CGRCBKVX … $9.99  ⭐4.5  5,250评  [Graphic/Print Tee]  ATHMILE Womens Oversized T Shirts Casual Tee 
+  [ 59/60] ASIN: B0FXGFF55M … $9.99  ⭐4.1  170评  [V-Neck T-Shirt]  SHEWIN Women's Summer Tops V Neck Short Sleev
+  [ 60/60] ASIN: B0DQBZ537S … $33.28  ⭐4.7  1,018评  [Crop Top]  Dalavch 6 Pack Women's Crop Top Short Sleeve 
+
+  ✅ 原始数据: /workspace/tshirt_analysis/raw_data.csv
+  ✅ JSON 数据: /workspace/tshirt_analysis/products.json
+
+[Step 3] 生成分析报告 …
+  ✅ 分析报告: /workspace/tshirt_analysis/analysis_report.txt
+
+============================================================
+╔══════════════════════════════════════════════════════════════════════╗
+║     Amazon 美国站 女士T恤类目 Top BSR 销售数据分析报告              ║
+╚══════════════════════════════════════════════════════════════════════╝
+  数据采集时间: 2026年04月17日 06:06
+  数据来源: https://www.amazon.com/Best-Sellers-Clothing-Shoes-Jewelry-Womens-T-Shirts/zgbs/fashion/1044544/
+  有效数据条数: 60 条
+
+════════════════════════════════════════════════════════════════════════
+  一、产品价格分布分析
+════════════════════════════════════════════════════════════════════════
+
+  有效价格数据: 60 / 60 条
+  最低价:          $6.79
+  最高价:          $33.28
+  平均价:          $10.42
+  中位价:          $9.99
+  25th 百分位:     $7.99
+  75th 百分位:     $10.05
+
+  价格区间分布:
+  区间              数量      占比  图示
+  ------------------------------------------------------------
+  ≤$10            45   75.0%  ██████████████████████████████████████████████████
+  $10-15          13   21.7%  ██████████████
+  $15-20           1    1.7%  █
+  $20-25           0    0.0%  
+  $25-30           0    0.0%  
+  $30-40           1    1.7%  █
+  $40-50           0    0.0%  
+  $50-75           0    0.0%  
+  >$75             0    0.0%  
+
+  Top 20 均价: $9.53  中位价: $8.99
+
+  ▶ 主流价格带: ≤$10
+
+  【价格建议】
+  ① 主力定价: T恤属于高频/低单价类目，大部分消费者预算在 $15-30。
+              建议新品首选 $16.99–$24.99 区间，兼顾流量与毛利。
+  ② 引流款:   ≤$15 可用于抢占 Best Seller Badge，适合基础素色款。
+  ③ 溢价款:   图案/设计款可定价 $25-35，依靠设计差异化支撑。
+  ④ 定价技巧: 采用 $X9.99 心理定价；上市初期配合 10-15% Coupon 冲排名。
+
+════════════════════════════════════════════════════════════════════════
+  二、款式类型分布分析
+════════════════════════════════════════════════════════════════════════
+
+  款式分布 (共 60 款):
+  款式                                     数量      占比  图示
+  ------------------------------------------------------------------------
+  V-Neck T-Shirt                         15   25.0%  ████████████████
+  Crop Top                               10   16.7%  ███████████
+  Other T-Shirt                          10   16.7%  ███████████
+  Basic / Essential Tee                   8   13.3%  ████████
+  Oversized / Relaxed Fit                 8   13.3%  ████████
+  Long Sleeve T-Shirt                     3    5.0%  ███
+  Tank Top / Sleeveless                   3    5.0%  ███
+  Scoop Neck Tee                          1    1.7%  █
+  Fitted / Slim Tee                       1    1.7%  █
+  Graphic/Print Tee                       1    1.7%  █
+
+  各款式平均价格 (≥2款):
+  款式                                         均价    数量
+  -------------------------------------------------------
+  Crop Top                             $  13.92    10
+  Tank Top / Sleeveless                $  12.31     3
+  Oversized / Relaxed Fit              $  11.23     8
+  Long Sleeve T-Shirt                  $  10.32     3
+  V-Neck T-Shirt                       $   9.38    15
+  Other T-Shirt                        $   9.14    10
+  Basic / Essential Tee                $   8.50     8
+
+  袖型分布:
+  Short Sleeve        :  44 款   73.3%  ████████████████████████████████████
+  Crop                :  10 款   16.7%  ████████
+  Long Sleeve         :   3 款    5.0%  ██
+  Sleeveless          :   3 款    5.0%  ██
+
+  版型分布:
+  Regular             :  31 款   51.7%  █████████████████████████
+  Loose/Oversized     :  18 款   30.0%  ███████████████
+  Fitted/Slim         :   9 款   15.0%  ███████
+  Plus Size           :   2 款    3.3%  █
+
+  【款式建议】
+  ① 主力款 — V-Neck T-Shirt: 榜单占比最高，需重点布局，多色系覆盖。
+  ② 次主力 — Crop Top: 有稳定需求，可与主力款共用工厂资源。
+  ③ 趋势款 — Other T-Shirt: 建议差异化切入，主打某一细分场景。
+  
+  重点款式开发方向:
+  • Graphic/Print Tee:  图案款是T恤类目最大流量池，建议每季上新5-10个图案
+  • Basic/Essential Tee: 基础素色款，建议12+色系，以量取胜，稳定复购
+  • V-Neck T-Shirt:     百搭基础款，用于补充SKU矩阵
+  • Oversized/Relaxed:  当下最强趋势，适合年轻客群，可配合社媒内容营销
+  • Crop Top:           年轻化/夏季款，结合 TikTok 热点快速上新
+
+════════════════════════════════════════════════════════════════════════
+  三、上新时间节奏分析
+════════════════════════════════════════════════════════════════════════
+
+  有日期数据: 60 / 60 条
+
+  按年份分布:
+  2021:   4 款    6.7%  ███
+  2022:   3 款    5.0%  ██
+  2023:   7 款   11.7%  █████
+  2024:  27 款   45.0%  ██████████████████████
+  2025:  17 款   28.3%  ██████████████
+  2026:   2 款    3.3%  █
+
+  2023年后上架新品: 53/60 = 88.3%
+  → 该类目新品上榜能力强，产品迭代速度快
+
+  按月份分布 (上新旺季识别):
+  月份       数量      占比  图示
+  -------------------------------------------------------
+  Jan       4    6.7%  ████
+  Feb       4    6.7%  ████
+  Mar       5    8.3%  █████
+  Apr       3    5.0%  ███
+  May       6   10.0%  ██████
+  Jun       3    5.0%  ███
+  Jul       1    1.7%  █
+  Aug       2    3.3%  ██
+  Sep       3    5.0%  ███
+  Oct       5    8.3%  █████
+  Nov      14   23.3%  ███████████████
+  Dec      10   16.7%  ███████████
+
+  上新高峰月份 (TOP3): May, Nov, Dec
+  上新低谷月份 (BTM3): Apr, Jul, Aug
+
+  【上新节奏建议】
+
+  ━━━ 春夏旺季主推 (T恤核心销售季) ━━━
+  时间节点       | 行动计划
+  ─────────────────────────────────────────────────────
+  12月-1月       | 确定春夏图案/款式/配色方案，下单打样
+  2月            | 确认批量订单，安排生产
+  3月初          | 生产完成，开始头程发货
+  3月底-4月初    | 完成 FBA 入仓 ← 春夏旺季入仓截止线
+  4月            | 新品上架，开始广告+Vine申请
+  5月-6月        | Memorial Day/夏季促销，冲 BSR 排名
+  7月            | Prime Day 核心爆发期，提前备足库存
+  8月            | Back to School 促销节点
+  ─────────────────────────────────────────────────────
+
+  ━━━ 秋冬补充期 ━━━
+  8月底-9月初    | 上架 Long Sleeve / 厚款T恤，布局秋季
+  10月           | 万圣节主题图案款上架
+  11月           | 感恩节/圣诞主题款，Black Friday 促销
+
+  ━━━ 常青款全年维护 ━━━
+  全年           | 基础素色T恤多色系维持库存，持续广告投放
+  每季度         | 补充 3-5 个新图案/新颜色，保持产品新鲜度
+  节日前8周      | 上架节日主题图案款（情人节/圣诞/万圣节等）
+
+════════════════════════════════════════════════════════════════════════
+  四、品牌竞争与评价分析
+════════════════════════════════════════════════════════════════════════
+
+  榜单品牌 Top 15:
+  品牌                                          上榜款数        均价
+  --------------------------------------------------------------
+  WIHOLL                                        12     $8.70
+  AUTOMET                                        6     $8.49
+  Trendy Queen                                   5     $9.89
+  ANRABESS                                       5    $10.19
+  Zeagoo                                         4     $8.44
+  Tankaneo                                       3    $12.31
+  Alaroo                                         2     $8.98
+  Sampeel                                        2     $8.31
+  PRETTYGARDEN                                   2    $10.21
+  Amazon Essentials                              1    $11.30
+  Gildan                                         1    $10.25
+  Kumufenc                                       1    $13.01
+  BJY                                            1     $9.99
+  Sovelen                                        1    $14.99
+  EyMuse                                         1     $8.99
+
+  Amazon 自有品牌上榜: 1 款  占比: 1.7%
+
+  评价数据统计:
+  平均评价数:   6837
+  中位评价数:   2988
+  最高评价数:   111,192
+  1000+评价款: 45 款  (75.0%)
+  5000+评价款: 17 款  (28.3%)
+  平均星级:     4.43 ★
+  4.5★+产品:   26 款  (43.3%)
+
+  【评价建议】
+  • T恤类目竞争极激烈，中位评价数高，新品冷启动难度大
+  • 建议一开始就申请 Amazon Vine（最多30个评价）快速起步
+  • 同时配合小红书/TikTok 达人合作，引入站外流量辅助爆单
+  • 评价维护: 严控退货率(<8%)，主动跟进差评，防止星级下滑
+
+════════════════════════════════════════════════════════════════════════
+  五、Top 20 明星产品详情
+════════════════════════════════════════════════════════════════════════
+
+    排名  ASIN               价格       评价    星级  上架日期                标题(前48字)
+  -------------------------------------------------------------------------------------------------------------------
+     1  B0BVFNPSGN      $9.99    5,543  4.5★  February 10, 2023   Trendy Queen Womens Short Sleeve T Shirts - Butt
+     2  B0CYC5GDYP      $7.99    4,228  4.5★  March 18, 2024      Trendy Queen Womens Stretchy Soft Opaque Basic T
+     3  B0G3WJZNZN      $6.79      721  4.6★  November 25, 2025   Zeagoo Womens Tops Summer Casual Cap Sleeve Tshi
+     4  B0BPYCHYP9      $8.49    6,825  4.5★  December 13, 2022   Trendy Queen Womens Oversized Summer T Shirts Pl
+     5  B0DJJMW21W      $9.99    9,807  4.5★  November 19, 2024   ANRABESS Womens Short Sleeve Henley Tops V Neck 
+     6  B07762TMMM     $11.30  110,858  4.4★  October 7, 2025     Amazon Essentials Women's Regular-Fit Short-Slee
+     7  B0DQYB2HNW     $12.99    1,627  4.4★  December 19, 2024   Trendy Queen Womens Off the Shoulder Tops Oversi
+     8  B07611Y7N7     $10.25  111,192  4.5★  August 17, 2021     Gildan Adult Ultra Cotton T-Shirt, Style G2000, 
+     9  B0D31745W4      $7.98    3,097  4.5★  March 19, 2024      AUTOMET Womens V Neck T Shirts Spring Summer Cap
+    10  B0DPQ9MVL5      $7.98    3,289  4.4★  February 12, 2026   Alaroo Womens Summer Tops Short Sleeve Shirts Cr
+    11  B0DHXBBW26      $8.99    3,280  4.6★  September 25, 2024  ANRABESS Women Short Sleeve Tops Scoop Neck Ribb
+    12  B0CXPJ575D     $13.01    1,847  4.5★  March 11, 2024      Kumufenc Women Short Sleeve Workout Shirts Open 
+    13  B0DHS2DKYP      $8.99    4,059  4.5★  December 29, 2024   SAMPEEL Womens Summer Tops Trendy 2025 Ruched Ca
+    14  B09SNTBDKQ      $7.99    5,565  4.5★  September 4, 2023   AUTOMET Women's Soft Basic Short Sleeve T-Shirt,
+    15  B0FN7QGW7D      $7.99      381  4.4★  October 31, 2025    WIHOLL Womens Tops Short Sleeve Shirts Summer Ou
+    16  B0CRV8WNS8      $8.99    4,603  4.4★  January 9, 2024     AUTOMET T-Shirts Short Sleeve V Neck Tees Tops f
+    17  B0DPQBJ1DW      $9.99    5,407  4.4★  January 16, 2025    Alaroo Womens Summer Tops Short Sleeve Shirts Cr
+    18  B0FR89HZVT      $7.99      468  4.4★  September 16, 2025  WIHOLL Womens Summer Tops Short Petal Sleeve Shi
+    19  B0CYZM5RSM     $12.99    9,612  4.6★  March 25, 2024      ANRABESS Women Long Sleeve Shirts Rib Knit Slim 
+    20  B0DKNS1P6C      $9.99    1,734  4.4★  October 23, 2024    WIHOLL Womens Summer Tops Short Sleeve Basic Cas
+
+════════════════════════════════════════════════════════════════════════
+  六、新品开发综合建议与行动计划
+════════════════════════════════════════════════════════════════════════
+
+  ╔═══════════════════════════════════════════════════════════════════╗
+  ║               女士T恤新品开发 - 完整行动计划                      ║
+  ╚═══════════════════════════════════════════════════════════════════╝
+
+  ▌ 优先级 1 — 图案款 Graphic Tee 【最高流量池】
+  ┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+  款式: 圆领短袖图案T恤（正面印花 / 全幅印花）
+  面料: 100%棉 或 棉/聚酯混纺（柔软悬垂感好）
+  颜色底色: 黑色、白色、灰色、藏蓝（最万能底色）
+  图案方向:
+    → Vintage/复古风（摇滚/80s/90s 风格复古图案）
+    → Inspirational/励志语录（英文 Slogan）
+    → Floral/花卉（春夏热卖）
+    → Funny/幽默（节日礼品场景需求大）
+    → Nature/动物（猫狗/大自然题材常青）
+  尺码: XS-3XL（覆盖加大码）
+  定价: $16.99–$24.99
+  上架: 提前8周上架（节日主题款）；常规图案全年滚动上新
+  SKU策略: 1个图案 × 5个颜色 × 6个码 = 30 SKU/款
+
+  ▌ 优先级 2 — 基础素色款 Basic Essential Tee 【稳定现金流】
+  ┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+  款式: 圆领短袖 + V领短袖 各一款，12-15色色系
+  面料: 棉/Modal混纺（提升质感，降低皱褶）
+  颜色: 黑、白、灰、米白、藏蓝、军绿、粉、红、橙、薰衣草紫…
+  定价: $13.99–$19.99（引流策略）
+  运营: 多变体合并，积累单 ASIN 评价量，冲 Best Seller Badge
+  差异化: 主打"超柔软"/"不透明"/"完美贴合"等具体面料卖点
+
+  ▌ 优先级 3 — 当季趋势款 Oversized / Crop 【年轻化增量】
+  ┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+  款式 A: Oversized Boxy Tee（宽松男友风）
+    颜色: 大地色系为主（卡其/沙漠棕/鼠尾草绿）
+    定价: $18.99–$26.99
+    差异化: 加重磅面料(200g+)，洗水做旧感
+  款式 B: Crop Top / Short Tee
+    颜色: 白、黑、粉、薰衣草
+    定价: $15.99–$22.99
+    营销: TikTok "outfit of the day" 内容联动
+
+  ▌ 优先级 4 — 节日限定款 Holiday / Seasonal Tee 【爆款机会】
+  ┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+  Valentine's Day (2月14日)  → 提前 8 周上架 (12月中旬)
+  St. Patrick's Day (3月17日) → 提前 6 周上架
+  Mother's Day (5月第2周)    → 提前 8 周上架 (3月底)
+  4th of July (7月4日)      → 提前 8 周上架 (5月初)
+  Halloween (10月31日)      → 提前 8 周上架 (9月初)
+  Christmas/Xmas (12月25日) → 提前 10 周上架 (10月中旬)
+  注: 节日款不可用长尾词打广告，需卡准节日词+提前排名
+
+  ▌ 蓝海差异化方向
+  ┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+  ① 加大码专项: 2X-5X，图案款竞争少，客单价可高 20%
+  ② 妈妈款/家庭套装: Mom/Mama tee，家庭匹配 T 恤礼品场景
+  ③ 定制/个性化: 配合 Amazon Custom，用户可定制名字/图案
+  ④ 环保/可持续: Organic Cotton 认证款，吸引环保消费者
+  ⑤ 运动/功能款: Moisture-wicking 速干 T 恤，运动场景
+
+  ▌ 关键运营指标参考
+  ┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+  目标指标        |  新品期(0-3月)  |  成长期(3-12月)  |  成熟期(1年+)
+  ──────────────────────────────────────────────────────────────────
+  评价数量        |   30+          |   200+           |   500+
+  星级目标        |   4.2★+        |   4.3★+          |   4.5★+
+  广告 ACOS       |   60-80%       |   30-50%         |   20-35%
+  退货率控制      |   <10%         |   <8%            |   <6%
+  月销售额目标    |   $1,500+      |   $8,000+        |   $25,000+
+
+  ▌ 竞争风险与关键注意事项
+  ┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+  ⚠ T恤是Amazon竞争最激烈的服装类目之一，价格敏感度极高
+  ⚠ 图案版权: 图案设计需原创或购买版权，避免侵权下架风险
+  ⚠ Amazon 自有品牌压制: Essentials 在基础款占主导，避免正面竞争
+  ⚠ 尺码/色差退货: 严格控制色差，尺码表提供英寸+厘米双标准
+  ⚠ 印花质量: 低质量印花会导致洗后褪色差评，需严格质检
+  ⚠ 库存管理: T恤 SKU 数量多，库存管理复杂，建议用 FBA 精细化运营
+
