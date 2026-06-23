@@ -1,0 +1,9 @@
+# Python dependencies for the Amazon market-research analysis scripts.
+# Scraping scripts (amazon_*_analysis.py, tshirt_seasonal_analysis.py) require
+# selenium + webdriver-manager + a Chrome/Chromium browser and live internet.
+# Report-only scripts (generate_report.py, *_report.py, new_product_plan_130days.py)
+# run offline on the committed CSV/JSON data and only need pandas (or stdlib).
+selenium>=4.45.0
+webdriver-manager>=4.1.2
+pandas>=3.0.3
+pytrends>=4.9.2
